@@ -1,0 +1,19 @@
+# Ignorar a pasta do ambiente virtual
+venv/
+.env/
+.venv/
+
+# Ignorar arquivos e diretórios do ambiente virtual que podem ser criados em diferentes sistemas operacionais
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Ignorar arquivos de log e de execução do ambiente virtual
+*.log
+*.env
+*.sqlite3
+
+# Ignorar arquivos de configuração do Python
+*.idea/
+*.vscode/

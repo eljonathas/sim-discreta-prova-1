@@ -1,0 +1,12 @@
+{
+  "caixa_1_sequencial": {
+    "tempos": [5.5, 8.2, 4.3, 9.0, 6.7, 9.8, 5.9, 10.5, 7.3, 8.7],
+    "media": 7.59,
+    "desvio_padrao": 1.99
+  },
+  "caixa_2_simultaneo": {
+    "tempos": [4.0, 5.8, 3.2, 6.5, 4.7, 6.9, 4.1, 7.3, 5.5, 6.4],
+    "media": 5.44,
+    "desvio_padrao": 1.38
+  }
+}
